@@ -1,7 +1,10 @@
 {
-  "name": "lib2",
+  "name": "@Vaishnaviynayak/sample-lib21",
   "version": "1.0.0",
   "description": "sample library",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/Vaishnaviynayak"
+  },
   "scripts": {
     "rollup":"rollup -c"},
   "author": "vaish",
