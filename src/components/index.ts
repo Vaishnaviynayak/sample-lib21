@@ -1,1 +1,1 @@
-export { default as Add } from "./Add1";
+export { default as Add1 } from "./Add1";
